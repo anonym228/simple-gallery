@@ -1,8 +1,8 @@
-Задание взято с репозитория Hexlet.
+Задание взято с репозитория Hexlet. </br>
 Использовал:
 -------
-ReactTS 
-StyledComponent
+ReactTS </br>
+StyledComponent </br>
 Axios
 
 Есть не доработанные элементы.
